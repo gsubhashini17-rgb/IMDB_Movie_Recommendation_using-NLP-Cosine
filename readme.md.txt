@@ -32,9 +32,10 @@ An intelligent movie recommendation system that suggests movies based on storyli
 - IMDb ratings
 
 ## 🚀 Live Demo
-[Click here to try the app](YOUR_STREAMLIT_URL)
+[Click here to try the app](https://imdbmovierecommendationusing-nlp-cosine-pwtksz7t5pzkhcdx3yqzly.streamlit.app/)
 
 ## 📦 Installation (Local)
 ```bash
 pip install -r requirements.txt
+
 streamlit run app.py
