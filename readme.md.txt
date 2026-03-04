@@ -39,3 +39,4 @@ An intelligent movie recommendation system that suggests movies based on storyli
 pip install -r requirements.txt
 
 streamlit run app.py
+
